@@ -13,7 +13,7 @@ print('#' * 30)
 Q2:
 '''
 
-a = None    # TODO: Replace `None` with your answer
+a = 1    # TODO: Replace `None` with your answer
 b = None    # TODO: Replace `None` with your answer
 c = None    # TODO: Replace `None` with your answer
 
